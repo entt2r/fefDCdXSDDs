@@ -5,7 +5,7 @@
 #announce: base64:4oC877iPINCe0LHRj9C30LDRgtC10LvRjNC90L4g0L/RgNC+0LTQu9C40LLQsNC50YLQtSDQstC+0LLRgNC10LzRjyDQsiDQsdC+0YLQtSBAbm9vbl92cG5fYm90DQrwn5OiINCS0YHQtSDQsNC60YLRg9Cw0LvRjNC90YvQtSDQvdC+0LLQvtGB0YLQuCDQsiDQotC10LvQtdCz0YDQsNC8INC60LDQvdCw0LvQtTogQG5vb252cG5jaGFubmVsDQoNCuKciO+4jyDQktGL0LHQuNGA0LDQudGC0LUg0YHQtdGA0LLQtdGA0LAg0YEgwqvQvNGBwrsNCuKblCDQndC1INGA0LDQsdC+0YLQsNC10YI/INCf0LXRgNC10LLRi9C/0YPRgdGC0LjRgtC1INC/0L7QtNC/0LjRgdC60YMg0LIg0LzQtdC90Y4g0LrQu9GO0YfQsA==
 # ===== Русские сервера #1 =====
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:443?type=tcp&security=none#🔵 Для гос сервисов
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.203.118:443?type=ws&host=ylnhh.cc.cd&path=/Telegram%20@WangCai2&security=tls&sni=ylnhh.cc.cd&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.203.118:443?type=ws&host=ylnhh.cc.cd&path=/Telegram%20@WangCai2&security=tls&sni=ylnhh.cc.cd&fp=chrome&allowInsecure=0#🇷🇺🔷 Россия | #1
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.203.118:443?type=ws&host=ylnhh.cc.cd&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&security=tls&sni=ylnhh.cc.cd&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.203.118:443?type=ws&host=ylnhh.cc.cd&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&security=tls&sni=ylnhh.cc.cd&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.203.118:443?type=ws&host=ylnhh.cc.cd&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&security=tls&sni=ylnhh.cc.cd&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D
@@ -98,7 +98,6 @@ vless://84a418db-2527-4db4-8fbd-865196def78a@84.201.145.23:443?flow=xtls-rprx-vi
 vless://001a44d7-69e6-0bb8-8d11-828fe2119621@212.193.156.229:443?type=ws&host=lk-cdn.deploy-assure.ru&path=//&security=tls&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%AEFinland%20%E2%80%94%20%23315
 vless://e928d85d-f223-0bb8-a1d2-a56e9fbd50e0@212.193.156.236:443?type=ws&security=tls&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%AEFinland%20%E2%80%94%20%23349
 vless://e314bbdb-4b14-47a9-ab09-b6f7949e931a@95.163.210.213:444?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=6gf2dbQSOHIdTHRENEx21w0EXsoNg48MKpz6dolH9mc&sid=f14132eb09&spx=/#%F0%9F%87%AB%F0%9F%87%AEFinland%20%E2%80%94%20%23354
-
 
 
 
